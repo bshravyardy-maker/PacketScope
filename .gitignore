@@ -1,0 +1,8 @@
+node_modules/
+dist/
+venv/
+__pycache__/
+*.pcap
+*.pcapng
+sniffer/capture.json
+sniffer/scan.json
